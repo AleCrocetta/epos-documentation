@@ -1,0 +1,8 @@
+{
+  "label": "Trial - Sidebar",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "just an experiment"
+  }
+}

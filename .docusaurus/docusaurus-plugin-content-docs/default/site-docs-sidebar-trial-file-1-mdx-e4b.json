@@ -1,0 +1,23 @@
+{
+  "id": "sidebar-trial/file1",
+  "title": "file1",
+  "description": "helloooooo",
+  "source": "@site/docs/sidebar-trial/file1.mdx",
+  "sourceDirName": "sidebar-trial",
+  "slug": "/sidebar-trial/file1",
+  "permalink": "/sidebar-trial/file1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trial - Sidebar",
+    "permalink": "/category/trial---sidebar"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
+  }
+}
