@@ -8,11 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/epos-documentation/",
-          "mainDocId": "Epos Documentation",
+          "mainDocId": "epos-documentation",
           "docs": [
             {
-              "id": "Epos Documentation",
-              "path": "/epos-documentation/Epos Documentation",
+              "id": "epos-documentation",
+              "path": "/epos-documentation/epos-documentation",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,8 +20,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/epos-documentation/Epos Documentation",
-                "label": "Epos Documentation"
+                "path": "/epos-documentation/epos-documentation",
+                "label": "epos-documentation"
               }
             }
           }
