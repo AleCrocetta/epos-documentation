@@ -9,19 +9,19 @@ export default [
   },
   {
     path: '/epos-documentation/',
-    component: ComponentCreator('/epos-documentation/', '635'),
+    component: ComponentCreator('/epos-documentation/', 'ed7'),
     routes: [
       {
         path: '/epos-documentation/',
-        component: ComponentCreator('/epos-documentation/', 'f8c'),
+        component: ComponentCreator('/epos-documentation/', '596'),
         routes: [
           {
             path: '/epos-documentation/',
-            component: ComponentCreator('/epos-documentation/', 'a7b'),
+            component: ComponentCreator('/epos-documentation/', '0fb'),
             routes: [
               {
-                path: '/epos-documentation/home',
-                component: ComponentCreator('/epos-documentation/home', '1fd'),
+                path: '/epos-documentation/epos-documentation',
+                component: ComponentCreator('/epos-documentation/epos-documentation', 'e3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
