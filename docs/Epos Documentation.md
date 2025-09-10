@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: epos-documentation
+id: index
 title: Epos Documentation
 
 ---
