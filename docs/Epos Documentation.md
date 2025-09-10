@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: epos-documentation
 title: Epos Documentation
-slug: /
+
 ---
 # Welcome to Our Documentation! 
 

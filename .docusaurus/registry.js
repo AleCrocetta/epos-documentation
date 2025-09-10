@@ -1,6 +1,5 @@
 export default {
   "138e0e15": [() => import(/* webpackChunkName: "138e0e15" */ "@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json"), "@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json", require.resolveWeak("@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json")],
-  "14eb3368": [() => import(/* webpackChunkName: "14eb3368" */ "@theme/DocCategoryGeneratedIndexPage"), "@theme/DocCategoryGeneratedIndexPage", require.resolveWeak("@theme/DocCategoryGeneratedIndexPage")],
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   "1a4e3797": [() => import(/* webpackChunkName: "1a4e3797" */ "@theme/SearchPage"), "@theme/SearchPage", require.resolveWeak("@theme/SearchPage")],
   "1c2e1553": [() => import(/* webpackChunkName: "1c2e1553" */ "@site/docs/Epos Documentation.md"), "@site/docs/Epos Documentation.md", require.resolveWeak("@site/docs/Epos Documentation.md")],
@@ -8,7 +7,4 @@ export default {
   "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
   "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
   "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
-  "bfcaef4f": [() => import(/* webpackChunkName: "bfcaef4f" */ "@site/docs/trial.md"), "@site/docs/trial.md", require.resolveWeak("@site/docs/trial.md")],
-  "e4b4453a": [() => import(/* webpackChunkName: "e4b4453a" */ "@site/docs/sidebar-trial/file1.mdx"), "@site/docs/sidebar-trial/file1.mdx", require.resolveWeak("@site/docs/sidebar-trial/file1.mdx")],
-  "e9836cff": [() => import(/* webpackChunkName: "e9836cff" */ "@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-8d9.json"), "@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-8d9.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-8d9.json")],
-  "fa626347": [() => import(/* webpackChunkName: "fa626347" */ "@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-category-trial-sidebar-feb.json"), "@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-category-trial-sidebar-feb.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/epos-open-source-docs-category-trial-sidebar-feb.json")],};
+  "b57be7a5": [() => import(/* webpackChunkName: "b57be7a5" */ "@generated/docusaurus-plugin-content-docs/default/p/epos-documentation-292.json"), "@generated/docusaurus-plugin-content-docs/default/p/epos-documentation-292.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/epos-documentation-292.json")],};

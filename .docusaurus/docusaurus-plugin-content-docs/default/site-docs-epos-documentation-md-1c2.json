@@ -4,8 +4,8 @@
   "description": "Hello and welcome! We're thrilled to have you here. This documentation is designed to help you:",
   "source": "@site/docs/Epos Documentation.md",
   "sourceDirName": ".",
-  "slug": "/",
-  "permalink": "/epos-open-source/docs/",
+  "slug": "/epos-documentation",
+  "permalink": "/epos-documentation/epos-documentation",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,12 +14,7 @@
   "frontMatter": {
     "sidebar_position": 1,
     "id": "epos-documentation",
-    "title": "Epos Documentation",
-    "slug": "/"
+    "title": "Epos Documentation"
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Trial - Sidebar",
-    "permalink": "/epos-open-source/docs/category/trial---sidebar"
-  }
+  "sidebar": "tutorialSidebar"
 }

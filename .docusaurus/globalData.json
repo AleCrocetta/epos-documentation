@@ -1,33 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/epos-open-source/docs/",
+      "path": "/epos-documentation/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/epos-open-source/docs/",
+          "path": "/epos-documentation/",
           "mainDocId": "epos-documentation",
           "docs": [
             {
               "id": "epos-documentation",
-              "path": "/epos-open-source/docs/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "sidebar-trial/file1",
-              "path": "/epos-open-source/docs/sidebar-trial/file1",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "trial",
-              "path": "/epos-open-source/docs/trial",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/trial---sidebar",
-              "path": "/epos-open-source/docs/category/trial---sidebar",
+              "path": "/epos-documentation/epos-documentation",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -35,7 +20,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/epos-open-source/docs/",
+                "path": "/epos-documentation/epos-documentation",
                 "label": "epos-documentation"
               }
             }

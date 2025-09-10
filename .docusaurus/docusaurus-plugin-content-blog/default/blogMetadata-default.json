@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/epos-open-source/docs/blog",
+  "blogBasePath": "/epos-documentation/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/epos-open-source/docs/blog/authors"
+  "authorsListPath": "/epos-documentation/blog/authors"
 }

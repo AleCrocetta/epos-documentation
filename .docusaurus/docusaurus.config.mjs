@@ -8,6 +8,7 @@ export default {
   "favicon": "img/favicon.ico",
   "projectName": "epos-documentation",
   "organizationName": "AleCrocetta",
+  "trailingSlash": false,
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -29,8 +30,8 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://epos-eu.github.io",
-  "baseUrl": "/epos-open-source/docs/",
+  "url": "https://AleCrocetta.github.io",
+  "baseUrl": "/epos-documentation/",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

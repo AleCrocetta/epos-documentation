@@ -3,43 +3,25 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/epos-open-source/docs/search',
-    component: ComponentCreator('/epos-open-source/docs/search', '54a'),
+    path: '/epos-documentation/search',
+    component: ComponentCreator('/epos-documentation/search', 'c41'),
     exact: true
   },
   {
-    path: '/epos-open-source/docs/',
-    component: ComponentCreator('/epos-open-source/docs/', '2b9'),
+    path: '/epos-documentation/',
+    component: ComponentCreator('/epos-documentation/', '614'),
     routes: [
       {
-        path: '/epos-open-source/docs/',
-        component: ComponentCreator('/epos-open-source/docs/', '340'),
+        path: '/epos-documentation/',
+        component: ComponentCreator('/epos-documentation/', 'c38'),
         routes: [
           {
-            path: '/epos-open-source/docs/',
-            component: ComponentCreator('/epos-open-source/docs/', '347'),
+            path: '/epos-documentation/',
+            component: ComponentCreator('/epos-documentation/', '829'),
             routes: [
               {
-                path: '/epos-open-source/docs/category/trial---sidebar',
-                component: ComponentCreator('/epos-open-source/docs/category/trial---sidebar', 'd86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/epos-open-source/docs/sidebar-trial/file1',
-                component: ComponentCreator('/epos-open-source/docs/sidebar-trial/file1', 'a14'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/epos-open-source/docs/trial',
-                component: ComponentCreator('/epos-open-source/docs/trial', '058'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/epos-open-source/docs/',
-                component: ComponentCreator('/epos-open-source/docs/', 'e3c'),
+                path: '/epos-documentation/epos-documentation',
+                component: ComponentCreator('/epos-documentation/epos-documentation', '87d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
