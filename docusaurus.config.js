@@ -8,7 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'EPOS',
   favicon: 'img/favicon.ico',
-
+  projectName: 'epos-documentation', // Usually your repo name.
+  organizationName: 'AleCrocetta', // Usually your GitHub org/user name.
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
