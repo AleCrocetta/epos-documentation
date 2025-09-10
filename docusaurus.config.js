@@ -10,6 +10,7 @@ const config = {
   favicon: 'img/favicon.ico',
   projectName: 'epos-documentation', // Usually your repo name.
   organizationName: 'AleCrocetta', // Usually your GitHub org/user name.
+  trailingSlash:false, // URLs without trailing slashes
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4

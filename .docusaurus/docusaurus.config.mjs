@@ -6,6 +6,8 @@
 export default {
   "title": "EPOS",
   "favicon": "img/favicon.ico",
+  "projectName": "epos-documentation",
+  "organizationName": "AleCrocetta",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,

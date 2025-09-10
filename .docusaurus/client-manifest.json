@@ -145,7 +145,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.a4fa79c9.js",
-          "hash": "5de3dd1d5e8644d8",
+          "hash": "3d2a423527a749b0",
           "publicPath": "/epos-open-source/docs/assets/js/runtime~main.a4fa79c9.js"
         }
       ]
@@ -216,9 +216,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.9551f6d9.js",
-          "hash": "fe525066e2ddf9cd",
-          "publicPath": "/epos-open-source/docs/assets/js/main.9551f6d9.js"
+          "file": "assets/js/main.866babf0.js",
+          "hash": "a1e3e0bb1498a9e6",
+          "publicPath": "/epos-open-source/docs/assets/js/main.866babf0.js"
         }
       ]
     },
