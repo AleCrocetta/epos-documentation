@@ -2,7 +2,6 @@
 
 sidebar_position: 1
 title: Epos Documentation
-id: index
 ---
 # Welcome to Our Documentation! 
 
