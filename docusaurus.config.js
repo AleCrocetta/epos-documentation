@@ -54,7 +54,7 @@ const config = {
       hashed: true,
       indexDocs: true,
       indexPages: false, // docs-only search
-       docsRouteBasePath: '/',
+      docsRouteBasePath: '/',
     },
     ],
   ],
