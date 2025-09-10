@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
-id: home
+id: epos-documentation
 title: Epos Documentation
+slug: /epos-documentation
 ---
 # Welcome to Our Documentation! 
 
