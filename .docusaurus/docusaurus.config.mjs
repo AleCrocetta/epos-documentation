@@ -27,8 +27,8 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "url": "https://epos-eu.github.io",
+  "baseUrl": "/epos-open-source/docs/",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -51,13 +51,25 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "/Users/alessandrocrocetta/Epos/Epos Documentation/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true,
+        "indexDocs": true,
+        "indexPages": false,
+        "docsRouteBasePath": "/"
+      }
+    ]
+  ],
   "themeConfig": {
     "image": "img/epos-logo.svg",
     "navbar": {
       "logo": {
         "alt": "EPOS Logo",
         "src": "img/epos-logo.svg",
-        "href": "https://epos-eu.github.io/epos-open-source/#/"
+        "href": "https://epos-eu.github.io/epos-open-source/#/",
+        "target": "_self"
       },
       "items": [
         {
@@ -77,7 +89,7 @@ export default {
           "items": []
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 EPOS Open Source"
     },
     "prism": {
       "theme": {
@@ -315,7 +327,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

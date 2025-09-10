@@ -15,10 +15,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://epos-eu.github.io', 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/epos-open-source/docs/',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -44,6 +44,17 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+    require.resolve("@easyops-cn/docusaurus-search-local"),
+    {
+      hashed: true,
+      indexDocs: true,
+      indexPages: false, // docs-only search
+       docsRouteBasePath: '/',
+    },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -53,7 +64,7 @@ const config = {
         logo: {
           alt: 'EPOS Logo',
           src: 'img/epos-logo.svg',
-          href: 'https://epos-eu.github.io/epos-open-source/#/',
+          href: 'https://epos-eu.github.io/epos-open-source/#/', target: '_self',
         },
         items: [
           {
@@ -77,7 +88,7 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} EPOS Open Source`,
       },
       prism: {
         theme: prismThemes.github,

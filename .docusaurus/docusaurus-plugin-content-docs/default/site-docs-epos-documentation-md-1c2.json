@@ -1,11 +1,11 @@
 {
   "id": "epos-documentation",
   "title": "Epos Documentation",
-  "description": "Welcome to the Epos Documentation.",
+  "description": "Hello and welcome! We're thrilled to have you here. This documentation is designed to help you:",
   "source": "@site/docs/Epos Documentation.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/",
+  "permalink": "/epos-open-source/docs/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/category/tutorial---basics"
+    "title": "Trial - Sidebar",
+    "permalink": "/epos-open-source/docs/category/trial---sidebar"
   }
 }
